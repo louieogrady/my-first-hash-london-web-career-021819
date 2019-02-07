@@ -3,7 +3,7 @@ your_hash = { "name" => "John", "car" => "Vauxhall Astra", "birthplace" => "Birm
 end
 
 def shipping_manifest
-  the_manifest = {"whale bone corsets" => 5}
+  the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
 end 
 
 

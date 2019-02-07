@@ -24,7 +24,7 @@ def adding
   # add 2 muskets to the shipping_manifest hash below
 []
 
-
+shif["a"] = 9
   # add 4 gun powder to the shipping_manifest hash below
 
 

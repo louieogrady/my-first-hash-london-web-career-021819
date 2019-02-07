@@ -1,6 +1,10 @@
 def my_hash
-your_hash = { "Name" => "John", "Car" => "Vauxhall Astra", "Birthplace" => "Birmingham" }
+your_hash = { "name" => "John", "car" => "Vauxhall Astra", "birthplace" => "Birmingham" }
 end
+
+def shipping_manifest
+  the_manifest = {"whale bone corsets" => 5}
+end 
 
 
 def shipping_manifest
